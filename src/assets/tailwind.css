@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#app {
+  height: 100vh;
+}
+
+@layer components {
+  .layout {
+    @apply container p-8 rounded-[35px] h-[100vh] overflow-auto;
+  }
+}
