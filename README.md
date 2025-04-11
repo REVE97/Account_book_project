@@ -1,6 +1,6 @@
 # SKELETON PROJECT 가계부
 <h2>2025.04.07 ~ 2025.04.11</h2>
-<h2>>WEB : https://teongjangsaver.netlify.app/</h2><br />
+<h2>>WEB : https://teongjangsaver.netlify.app/</h2>
 <h2>>MOBILE : https://teonjang-saver.netlify.app/</h2>
 
 # UI
